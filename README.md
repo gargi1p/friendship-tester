@@ -2,7 +2,7 @@
 
 This project, built with HTML, CSS, JavaScript, PHP, and MySQL, designed to assess the strength of friendships through a fun quiz format. Users start by registering and answering 30 questions divided into three categories about their favorites. After completing the quiz, users receive a unique link that they can share with friends, who then choose one category and try to guess the user's answers. The application compares the user's answers and the friend's guesses, and the total scores are displayed on a scoreboard, allowing friends to see how well they know each other.  
 
-<h1>Project Interface -</h1>
+<h1>Project Interface - </h1>
 
 ![Screenshot 2024-08-22 200809](https://github.com/user-attachments/assets/50cbc371-b266-4187-ae58-76e5530780b9)
 ![Screenshot 2024-08-22 200834](https://github.com/user-attachments/assets/67668886-7249-4e90-8b27-90dd914bcdbf)
